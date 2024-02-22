@@ -25,3 +25,18 @@ for decrypting use start_Decrypt.py just give the path of encrypted txt file.
 ![Screenshot 2024-02-22 164036](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/a4b3ceed-e6e4-4956-8a15-790bb983b818)
 
 
+# How does it works?
+
+there is a dataset for every character
+
+![3](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/4d1585ec-0923-4fb4-8306-356bb59bdc83)
+
+
+what does it do is simple it first extract all character from the text as it is a big string and store them in a list
+then check i character is in data name dictionary and if it is then store the character numberical value in a second list 
+and write it by separating every character with "," in a text file.
+
+for decrypting it uses that text file and store all numbers as a big string (text) and uses that "," to seprate them and store
+them in a list called "decrepted_data" and then we  store items of of data set list (named data) in a key, value and check our numbered data in value 
+note here we have to first divide the numbered data by the number we multiply then check for key. if key found just store text of key in a new variable
+and print that variable.
