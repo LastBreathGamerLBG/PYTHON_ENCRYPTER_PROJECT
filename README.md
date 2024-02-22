@@ -36,7 +36,7 @@ what does it do is simple it first extract all character from the text as it is 
 
 ![4](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/d16c773d-4eb0-4f7e-89a0-7e7438bfc246)
 
-then check i character is in data name dictionary and if it is then store the character numberical value in a second list 
+then check if character is in data name dictionary and if it is then store the character numberical value in a second list 
 and write it by separating every character with "," in a text file.
 
 ![5](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/3d6cbb06-7a4b-4b73-ab36-e36393487528)
