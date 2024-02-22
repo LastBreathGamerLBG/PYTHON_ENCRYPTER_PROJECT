@@ -1,4 +1,4 @@
-#   PYTHON ENCRYPTER PROJECT
+![3](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/4a60d3e5-4a9e-4042-a629-ef2fbee3e5e8)#   PYTHON ENCRYPTER PROJECT
 
 hello everyone this is a basic python encryptor which can encyrpt your text or whatever you want (make sure it is in dataset.py)
 
@@ -32,11 +32,25 @@ there is a dataset for every character
 ![3](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/4d1585ec-0923-4fb4-8306-356bb59bdc83)
 
 
-what does it do is simple it first extract all character from the text as it is a big string and store them in a list
+what does it do is simple it first extract all character from the text as it is a big string and store them in a list.
+
+![4](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/d16c773d-4eb0-4f7e-89a0-7e7438bfc246)
+
 then check i character is in data name dictionary and if it is then store the character numberical value in a second list 
 and write it by separating every character with "," in a text file.
 
+![5](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/3d6cbb06-7a4b-4b73-ab36-e36393487528)
+
+
 for decrypting it uses that text file and store all numbers as a big string (text) and uses that "," to seprate them and store
-them in a list called "decrepted_data" and then we  store items of of data set list (named data) in a key, value and check our numbered data in value 
-note here we have to first divide the numbered data by the number we multiply then check for key. if key found just store text of key in a new variable
-and print that variable.
+them in a list called "decrepted_data".
+
+![6](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/f8900899-4793-46fd-a9b3-4a9a0a6a3e66)
+
+and then we  store items of of data set list (named data) in a key, value and check our numbered data in value 
+note here we have to first divide the numbered data by the number we multiply then check for key.
+
+if key found just store text of key in a new variable and print that variable.
+
+
+
