@@ -1,4 +1,4 @@
-![3](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/4a60d3e5-4a9e-4042-a629-ef2fbee3e5e8)#   PYTHON ENCRYPTER PROJECT
+#   PYTHON ENCRYPTER PROJECT
 
 hello everyone this is a basic python encryptor which can encyrpt your text or whatever you want (make sure it is in dataset.py)
 
