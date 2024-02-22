@@ -14,9 +14,9 @@ in vs code open start_Encrypt.py and run it.
 
 ![Screenshot 2024-02-22 163459](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/963646c1-ba48-48c4-ba7d-bb1b63025b8d)
 
-it will ask you to input text just type and hit enter that you want to decrypt😊😊😊
+it will ask you to input text just type and hit enter whatever you want to encrypt😊😊😊
 
-it will create a txt file of ecrypted text in form of multiplied number of dataset.
+it will create a txt file of encrypted text in form of multiplied number of dataset.
 
 ![png2](https://github.com/LastBreathGamerLBG/PYTHON_ENCRYPTER_PROJECT/assets/160850941/0fd518df-fffe-4a24-82ac-cb6cab7a77c1)
 
